@@ -33,5 +33,4 @@ A: We welcome your feedback! Reach out to us in the ""Help"" tab added inside of
 ## Notes :pencil:
 
 - We are actively working on improving Synapse Z. Stay tuned for exciting new features in upcoming releases!"						
-		
-![image](https://github.com/goldberguffy/SynapseZ/assets/149868489/2332abd4-932e-4d28-b75b-ef8d5fa65748)
+
